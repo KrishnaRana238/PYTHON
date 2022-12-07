@@ -20,4 +20,5 @@ for i in li2:
         print(i,"is valid")
     else:
         print(i,"is not valid")
+        print(i,"valid sentence")
 print("\n\t\t\t --------------------------------Thankyou------------------------------")
